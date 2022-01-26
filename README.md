@@ -1,5 +1,5 @@
 # Juice Jacking
-To raise cybersecurity awareness, by developing an application that will retrieve data from a mobile phone when plugged into a charging station, using the data channels of the phone, without the permission or knowledge of the mobile phone owner. This is called Juice Jacking. Report and describe in your research what the concept of Juice Jacking, International and national statistics on Juice Jacking, develop minimum viable counter measures to mitigate data theft on a mobile phone data.
+To raise cybersecurity awareness, by developing an application that will retrieve data from a mobile phone when plugged into a charging station, using the data channels of the phone, without the permission or knowledge of the mobile phone owner. This is called Juice Jacking. 
 
 ######HOW TO RUN THE CODE
 
